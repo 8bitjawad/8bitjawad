@@ -3,11 +3,11 @@
 I'm a **Full-Stack Developer** and **AI/ML enthusiast** building web apps, SaaS platforms, and AI-powered prototypes.  
 
 💡 **Some of my projects:**  
-- **Brother Eye** – Smart eye-care system using AI  
+- **Brother Eye** – CPU statistic monitoring, analysis and predictions tool made with Raspberry Pi, Python and Machine Learning.
 - **DentXAI** – Explainable AI for dental lesion detection  
-- **Upstrah Landing Page** – Sports social media platform  
-- **Telemedicine Triage** – AI-assisted healthcare triage system  
-- **Real Estate Management (ARD)** – Web-based property management solution  
+- **Upstrah Landing Page** – Landing Page for a Sports Social Media Startup
+- **Telemedicine Triage** – AI-assisted healthcare triage system.
+- **Real Estate Management (ARD)** – Web-based property management solution with CRUD functionality.
 
 🛠 **Tech Stack:** Django | React | Tailwind CSS | Python | PostgreSQL | AI/ML  
 
