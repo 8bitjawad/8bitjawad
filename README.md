@@ -3,8 +3,9 @@
 I'm a **Full-Stack Developer** and **AI/ML enthusiast** building web apps, SaaS platforms, and AI-powered prototypes.  
 
 💡 **Some of my projects:**  
-- **Brother Eye** – CPU statistic monitoring, analysis and predictions tool made with Raspberry Pi, Python and Machine Learning.
 - **DentXAI** – Explainable AI for dental lesion detection  
+- **Brother Eye** – CPU statistic monitoring, analysis and predictions tool made with Raspberry Pi, Python and Machine Learning.
+- **Heimdall** - Email classification system using NLP and ML, deployed with Streamlit for real-time predictions and confidence scoring.
 - **Upstrah Landing Page** – Landing Page for a Sports Social Media Startup
 - **Telemedicine Triage** – AI-assisted healthcare triage system.
 - **Real Estate Management (ARD)** – Web-based property management solution with CRUD functionality.
