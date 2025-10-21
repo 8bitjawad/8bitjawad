@@ -12,6 +12,8 @@ I'm a **Full-Stack Developer** and **AI/ML enthusiast** building web apps, SaaS 
 
 🛠 **Tech Stack:** Django | React | Tailwind CSS | Python | PostgreSQL | AI/ML  
 
+Check out my YouTube : (https://www.youtube.com/@bitdissimulator)
+Check out my LinkedIn : (https://www.linkedin.com/in/mohammed-jawad-hussain)
 ---
 
 ### 📊 GitHub Stats
