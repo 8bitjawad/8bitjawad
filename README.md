@@ -9,6 +9,7 @@ I'm a **Full-Stack Developer** and **AI/ML enthusiast** building web apps, SaaS 
 - **Upstrah Landing Page** – Landing Page for a Sports Social Media Startup
 - **Sindri** - Uber for home services such as carpenting, plumbing etc.
 - **Telemedicine Triage** – AI-assisted healthcare triage system.
+- **Moodio** - Text Sentiment Analyser using TextBlob
 - **Real Estate Management (ARD)** – Web-based property management solution with CRUD functionality.
 
 🛠 **Tech Stack:** Django | React | Tailwind CSS | Python | PostgreSQL | AI/ML  
