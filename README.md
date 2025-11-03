@@ -5,8 +5,9 @@ I'm a **Full-Stack Developer** and **AI/ML enthusiast** building web apps, SaaS 
 💡 **Some of my projects:**  
 - **DentXAI** – Explainable AI for dental lesion detection  
 - **Brother Eye** – CPU statistic monitoring, analysis and predictions tool made with Raspberry Pi, Python and Machine Learning.
-- **Sindri** - Uber for home services such as carpenting, plumbing etc.
+- **Sindri** - Uber for home services such as carpenting, plumbing etc. Developed with Django and React.
 - **Heimdall** - Email classification system using NLP and ML, deployed with Streamlit for real-time predictions and confidence scoring.
+- **Hermes** - Different types of text translations to Hindi/Kannada using APIs and HuggingFace Transformer.
 - **Upstrah Landing Page** – Landing Page for a Sports Social Media Startup
 - **Telemedicine Triage** – AI-assisted healthcare triage system.
 - **Moodio** - Text Sentiment Analyser using TextBlob
