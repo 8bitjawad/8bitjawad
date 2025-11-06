@@ -8,9 +8,9 @@ I'm a **Full-Stack Developer** and **AI/ML enthusiast** building web apps, SaaS 
 - **Sindri** - Uber for home services such as carpenting, plumbing etc. Developed with Django and React. (https://sindri.onrender.com/)
 - **Heimdall** - Email classification system using NLP and ML, deployed with Streamlit for real-time predictions and confidence scoring. (https://heimdall.streamlit.app/)
 - **Hermes** - Different types of text translations to Hindi/Kannada using APIs and HuggingFace Transformer. (https://adnanhermes.streamlit.app/)
-- **Upstrah Landing Page** – Landing Page for a Sports Social Media Startup
+- **Upstrah Landing Page** – Landing Page for a Sports Social Media Startup (https://upstrah.com/)
 - **Telemedicine Triage** – AI-assisted healthcare triage system.
-- **Moodio** - Text Sentiment Analyser using TextBlob
+- **Moodio** - Text Sentiment Analyser using TextBlob (https://jawad-moodio.streamlit.app/)
 - **Ard** – Web-based property management solution with CRUD functionality.
 
 🛠 **Tech Stack:** Django | React | Tailwind CSS | Python | PostgreSQL | AI/ML  
