@@ -1,4 +1,4 @@
-# Hi, I'm Mohammed Jawad Hussain 👋
+# Hi, I'm Mohammed Jawad Hussain 
 
 I'm a **Full-Stack Developer** and **AI/ML enthusiast** building web apps, SaaS platforms, and AI-powered prototypes.  
 
