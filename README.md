@@ -2,7 +2,7 @@
 
 I'm a **Full-Stack Developer** and **AI/ML enthusiast** building web apps, SaaS platforms, and AI-powered prototypes.  
 
-💡 **Some of my projects:**  
+**Some of my projects:**  
 - **DentXAI** – Explainable AI for dental lesion detection with low,moderate and severe predictions with explainability. 
 - **Brother Eye** – CPU statistic monitoring, analysis and predictions tool made with Raspberry Pi, Python and Machine Learning.
 - **Sindri** - Uber for home services such as carpenting, plumbing etc. Developed with Django and React. (https://sindri.onrender.com/)
