@@ -17,7 +17,7 @@ I'm a **Full-Stack Developer** and **AI/ML enthusiast** building web apps, SaaS 
 
 - **Check out my YouTube :** (https://www.youtube.com/@bitdissimulator)
 - **Check out my LinkedIn :** (https://www.linkedin.com/in/mohammed-jawad-hussain)
-- **Check out my Twitter :** (https:www.x.com/bitdissimulator)
+- **Check out my Twitter :** (https://www.x.com/bitdissimulator)
 ---
 
 ### 📊 GitHub Stats
