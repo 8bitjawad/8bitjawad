@@ -13,10 +13,11 @@ I'm a **Full-Stack Developer** and **AI/ML enthusiast** building web apps, SaaS 
 - **Moodio** - Text Sentiment Analyser using TextBlob (https://jawad-moodio.streamlit.app/)
 - **Ard** – Web-based property management solution with CRUD functionality.
 
-🛠 **Tech Stack:** Django | React | Tailwind CSS | Python | PostgreSQL | AI/ML  
+🛠 **Tech Stack:** Next.js | React | Django | Tailwind CSS | Python | PostgreSQL | AI/ML  
 
 - **Check out my YouTube :** (https://www.youtube.com/@bitdissimulator)
 - **Check out my LinkedIn :** (https://www.linkedin.com/in/mohammed-jawad-hussain)
+- **Check out my Twitter :** (https:www.x.com/bitdissimulator)
 ---
 
 ### 📊 GitHub Stats
