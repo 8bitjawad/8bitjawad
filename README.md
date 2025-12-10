@@ -3,7 +3,7 @@
 I'm a **Full-Stack Developer** and **AI/ML enthusiast** building web apps, SaaS platforms, and AI-powered prototypes.  
 
 **Some of my projects:**  
--**Writle** - A full-stack AI writing web-app with daily prompts, streak tracking, and instant feedback. (https://writle-daily.vercel.app/)
+- **Writle** - A full-stack AI writing web-app with daily prompts, streak tracking, and instant feedback. (https://writle-daily.vercel.app/)
 - **DentXAI** – Explainable AI for dental lesion detection with low,moderate and severe predictions with explainability using LRP and Occlusion. 
 - **Brother Eye** – CPU statistic monitoring, analysis and predictions tool made with Raspberry Pi, Python and Machine Learning.
 - **Sindri** - Uber for home services such as carpenting, plumbing etc. Developed with Django and React. (https://sindri.onrender.com/)
