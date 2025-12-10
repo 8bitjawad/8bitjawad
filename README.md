@@ -2,6 +2,10 @@
 
 I'm a **Full-Stack Developer** and **AI/ML enthusiast** building web apps, SaaS platforms, and AI-powered prototypes.  
 
+**Portfolio:** https://mohammedjawad.vercel.app/
+
+🛠 **Tech Stack:** Next.js | React | Django | Tailwind CSS | Python | PostgreSQL | AI/ML  
+
 **Some of my projects:**  
 - **Writle** - A full-stack AI writing web-app with daily prompts, streak tracking, and instant feedback. (https://writle-daily.vercel.app/)
 - **DentXAI** – Explainable AI for dental lesion detection with low,moderate and severe predictions with explainability using LRP and Occlusion. 
@@ -13,8 +17,6 @@ I'm a **Full-Stack Developer** and **AI/ML enthusiast** building web apps, SaaS 
 - **Telemedicine Triage** – AI-assisted healthcare triage system.
 - **Moodio** - Text Sentiment Analyser using TextBlob (https://jawad-moodio.streamlit.app/)
 - **Ard** – Web-based property management solution with CRUD functionality.
-
-🛠 **Tech Stack:** Next.js | React | Django | Tailwind CSS | Python | PostgreSQL | AI/ML  
 
 - **Check out my YouTube :** (https://www.youtube.com/@bitdissimulator)
 - **Check out my LinkedIn :** (https://www.linkedin.com/in/mohammed-jawad-hussain)
