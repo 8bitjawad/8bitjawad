@@ -1,13 +1,14 @@
 # Hi, I'm Jawad. 
 
 I'm a :
+
 **Full-Stack Developer,**
 **AI/ML enthusiast, and** 
 **Software Dev Intern at Bitstek Consulting.**
 
 I'm currently:
 
-**building web apps, SaaS platforms, and AI-powered prototypes,**
+**Building web apps, SaaS platforms, and AI-powered prototypes:**
 **Oncura, a smart search tool for Oncologists**,
 **An Explainable and Reasonable AI Middleware tool for businesses, and**
 **An LLM-based Code Reviewer with XAI.**
