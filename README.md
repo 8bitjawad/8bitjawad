@@ -4,7 +4,7 @@ I'm a :
 
 **Full-Stack Developer,**
 **AI/ML enthusiast, and** 
-**Software Dev Intern at Bitstek Consulting.**
+**a Software Dev Intern @ Bitstek Consulting.**
 
 I'm currently:
 
